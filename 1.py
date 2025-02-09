@@ -2,7 +2,7 @@ import streamlit as st
 
 # Story content
 story_lines = [
-    "My man is sad and i can't see that 😟."
+    "My man is sad and i can't see that 😟.",
     "On March 25th, sattu pandu  proposed to me.",
     "I like him very much, more than words can say.",
     "I want to be with him forever, through every joy and every sorrow.",
